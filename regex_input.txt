@@ -1,0 +1,4 @@
+esunbank\.com\.tw
+(e|s)eunbank\.com\.tw
+e(s)?unbank\.com\.tw
+esun[a-c]bank\.com\.tw
